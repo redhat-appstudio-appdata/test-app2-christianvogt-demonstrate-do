@@ -3,6 +3,7 @@ bases:
 - components/java-quarkus-1/base
 - components/java-quarkus-10/base
 - components/java-quarkus-2/base
+- components/java-quarkus-3/base
 - components/java-quarkus/base
 - components/nodejs/base
 kind: Kustomization
